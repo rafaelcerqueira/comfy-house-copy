@@ -181,6 +181,8 @@ body {
     text-align: center;
 }
 
+/*---------- Cart-------------------- */
+
 .cart-overlay {
     position: fixed;
     top: 0;
