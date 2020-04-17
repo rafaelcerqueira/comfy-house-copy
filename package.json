@@ -1,0 +1,25 @@
+{
+  "name": "e-commerce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaelcerqueira/comfy-house-copy.git"
+  },
+  "keywords": [
+    "e-commerce",
+    "comfy",
+    "house",
+    "copy"
+  ],
+  "author": "Rafael Cerqueira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafaelcerqueira/comfy-house-copy/issues"
+  },
+  "homepage": "https://github.com/rafaelcerqueira/comfy-house-copy#readme"
+}
